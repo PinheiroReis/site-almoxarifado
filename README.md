@@ -2,7 +2,7 @@ Use the uv python package manage to execute it
 
 ```bash
 uv sync
-uv run python mange.py makemigrations
-uv run python mange.py migrate
-uv run python mange.py runserver
+uv run python manage.py makemigrations
+uv run python manage.py migrate
+uv run python manage.py runserver
 ```
